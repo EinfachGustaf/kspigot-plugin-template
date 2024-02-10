@@ -1,7 +1,7 @@
 # KSpigot Plugin Template
 Because [emmaboecker/kspigot-gradle-template](https://github.com/emmaboecker/kspigot-gradle-template) was archived and isn't up to date we created our own template.
 
-This project is inspired by [emmaboecker/kspigot-gradle](https://github.com/emmaboecker/kspigot-gradle-template)
+This project is inspired by [emmaboecker/kspigot-gradle-template](https://github.com/emmaboecker/kspigot-gradle-template)
 
 ## Version
 You can switch between the branches to change the version
