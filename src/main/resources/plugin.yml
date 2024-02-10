@@ -1,3 +1,6 @@
 name: ExamplePlugin
 version: 1.0
+api-version: 1.20
 main: live.einfachgustaf.example.ExamplePlugin
+libraries:
+  - "net.axay:kspigot:1.20.2"
