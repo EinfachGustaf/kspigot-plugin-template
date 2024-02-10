@@ -11,6 +11,8 @@ You can switch between the branches to change the version
 |------------------------------|---------|---------------|
 | KSpigot (`net.axay:kspigot`) | 1.20.3  | Maven Central |
 
+Version 1.20.3 is not a bug, this is the version that KSpigot published for Minecraft version 1.20.4.
+
 We are using [paperweight](https://github.com/PaperMC/paperweight) for the paper dependencies
 
 ## How to use
