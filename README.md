@@ -13,7 +13,7 @@ You can switch between the branches to change the version
 
 Version 1.20.3 is not an mistake, this is the version that KSpigot published for Minecraft version 1.20.4.
 
-We are using [paperweight](https://github.com/PaperMC/paperweight) for the paper dependencies
+We are using [paperweight](https://github.com/PaperMC/paperweight) for the Paper dependencies
 
 ## How to use
 1. Click [**Use this template**](../../generate) at the top.
